@@ -1,1 +1,1 @@
-# MySql-Assignment_CustomerChurnAnalysis
+# MySql_CustomerChurnAnalysis
